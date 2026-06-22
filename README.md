@@ -59,17 +59,7 @@ Building intelligent solutions through AI, Full Stack Development, and Problem S
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithun0404&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithun0404&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun0404&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
